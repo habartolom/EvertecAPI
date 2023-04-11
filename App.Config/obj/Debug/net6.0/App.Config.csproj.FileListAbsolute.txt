@@ -1,8 +1,3 @@
-C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.AssemblyInfoInputs.cache
-C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.AssemblyInfo.cs
-C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.csproj.AssemblyReference.cache
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net6.0\App.Config.deps.json
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net6.0\App.Config.dll
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net6.0\App.Config.pdb
@@ -12,6 +7,11 @@ C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net6.0\App.Application.pdb
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net6.0\App.Domain.pdb
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.csproj.CopyComplete
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\App.Config.dll
 C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Config\obj\Debug\net6.0\refint\App.Config.dll

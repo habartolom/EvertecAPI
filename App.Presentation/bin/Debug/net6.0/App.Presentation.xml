@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>App.Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:App.Presentation.Controllers.CivilStatusesController.GetAll">
+            <summary>
+            Endpoint for get all civil statuses
+            </summary>
+            <returns>List with all civil statuses</returns>
+        </member>
+        <member name="T:App.Presentation.Controllers.UsersController">
+            <summary>
+            Users Controller
+            </summary>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.#ctor(App.Application.Services.Users.IUserService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="userService"></param>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.GetAll">
+            <summary>
+            Endpoint for get all users
+            </summary>
+            <returns>List with all users</returns>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.CreateUser(App.Application.Models.Contracts.UserCreateRequestContract)">
+            <summary>
+            Endpoint for create an user
+            </summary>
+            <param name="userCreateRequest"></param>
+            <returns>Success response with created user</returns>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.DeleteUser(System.Guid)">
+            <summary>
+            Endpoint for delete an user
+            </summary>
+            <param name="userCreateRequest"></param>
+            <returns>Success response with edited user</returns>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.EditUser(App.Application.Models.Contracts.UserEditRequestContract)">
+            <summary>
+            Endpoint for edit an user
+            </summary>
+            <param name="userEditRequest"></param>
+            <returns>Success response with edited user</returns>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.GetUser(System.Guid)">
+            <summary>
+            Endpoint for get an user by Id
+            </summary>
+            <returns>Success response with user</returns>
+        </member>
+        <member name="M:App.Presentation.Controllers.UsersController.GetUserPhoto(System.String)">
+            <summary>
+            Endpoint for get user photo
+            </summary>
+            <returns>Success response with photos</returns>
+        </member>
+    </members>
+</doc>
