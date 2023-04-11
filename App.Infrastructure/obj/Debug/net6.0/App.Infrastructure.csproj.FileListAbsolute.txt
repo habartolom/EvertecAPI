@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\bin\Debug\net6.0\App.Domain.dll
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\bin\Debug\net6.0\App.Domain.pdb
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\Admin\Downloads\Tests\Evertec\Code\Evertec.API\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
